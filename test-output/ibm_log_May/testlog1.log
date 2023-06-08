@@ -1,0 +1,58 @@
+2023-05-23 13:06:08,583 [main] INFO PayTM login module - -----info: launching application
+2023-05-23 13:06:08,588 [main] WARN PayTM login module - -----warn: launching application
+2023-05-23 13:06:08,589 [main] ERROR PayTM login module - ----error: launching application
+2023-05-23 13:06:13,393 [main] INFO PayTM login module - Application url: https://paytm.com/
+2023-05-23 13:08:22,787 [main] INFO PayTM login module - -----info: launching application
+2023-05-23 13:08:22,792 [main] WARN PayTM login module - -----warn: launching application
+2023-05-23 13:08:22,792 [main] ERROR PayTM login module - ----error: launching application
+2023-05-23 13:08:26,820 [main] INFO PayTM login module - Application url: https://paytm.com/
+2023-05-23 13:09:41,538 [main] INFO PayTM login module - -----info: launching application
+2023-05-23 13:09:41,549 [main] WARN PayTM login module - -----warn: launching application
+2023-05-23 13:09:41,550 [main] ERROR PayTM login module - ----error: launching application
+2023-05-23 13:09:46,381 [main] INFO PayTM login module - Application url: https://paytm.com/
+2023-05-23 13:12:08,561 [main] INFO PayTM login module - -----info: launching application
+2023-05-23 13:12:08,569 [main] WARN PayTM login module - -----warn: launching application
+2023-05-23 13:12:08,571 [main] ERROR PayTM login module - ----error: launching application
+2023-05-23 13:12:13,690 [main] INFO PayTM login module - Application url: https://paytm.com/
+2023-05-23 13:12:20,263 [main] INFO PayTM login module - click on Sign button
+2023-05-23 13:12:20,555 [main] INFO PayTM login module - Switching to payTM frame.
+2023-05-23 13:12:24,471 [main] INFO PayTM login module - payTM frame heading:To Login into your Paytm Web account
+2023-05-23 13:12:24,478 [main] INFO PayTM login module - payTM frame heading validation pass, actual heading are: To Login into your Paytm Web account
+2023-05-23 13:12:24,485 [main] INFO PayTM login module - click on Watch video on payTM frame 
+2023-05-23 13:12:29,813 [main] INFO PayTM login module - closing application
+2023-05-25 11:35:02,333 [main] INFO PayTM login module - -----info: launching application
+2023-05-25 11:35:02,342 [main] WARN PayTM login module - -----warn: launching application
+2023-05-25 11:35:02,343 [main] ERROR PayTM login module - ----error: launching application
+2023-05-25 11:35:07,039 [main] INFO PayTM login module - Application url: https://paytm.com/
+2023-05-25 11:35:11,647 [main] INFO PayTM login module - click on Sign button
+2023-05-25 11:35:11,771 [main] INFO PayTM login module - Switching to payTM frame.
+2023-05-25 11:35:15,488 [main] INFO PayTM login module - payTM frame heading:To Login into your Paytm Web account
+2023-05-25 11:35:15,492 [main] INFO PayTM login module - payTM frame heading validation pass, actual heading are: To Login into your Paytm Web account
+2023-05-25 11:35:15,493 [main] INFO PayTM login module - click on Watch video on payTM frame 
+2023-05-25 11:35:20,775 [main] INFO PayTM login module - closing application
+2023-05-25 11:35:47,929 [main] INFO PayTM login module - -----info: launching application
+2023-05-25 11:35:47,940 [main] WARN PayTM login module - -----warn: launching application
+2023-05-25 11:35:47,940 [main] ERROR PayTM login module - ----error: launching application
+2023-05-25 11:35:52,632 [main] INFO PayTM login module - Application url: https://paytm.com/
+2023-05-25 11:35:57,381 [main] INFO PayTM login module - click on Sign button
+2023-05-25 11:35:57,547 [main] INFO PayTM login module - Switching to payTM frame.
+2023-05-25 11:36:01,316 [main] INFO PayTM login module - payTM frame heading:To Login into your Paytm Web account
+2023-05-25 11:36:01,319 [main] INFO PayTM login module - payTM frame heading validation pass, actual heading are: To Login into your Paytm Web account
+2023-05-25 11:36:01,320 [main] INFO PayTM login module - click on Watch video on payTM frame 
+2023-05-25 11:36:06,558 [main] INFO PayTM login module - closing application
+2023-05-25 11:38:10,448 [main] INFO PayTM login module - -----info: launching application
+2023-05-25 11:38:10,460 [main] WARN PayTM login module - -----warn: launching application
+2023-05-25 11:38:10,460 [main] ERROR PayTM login module - ----error: launching application
+2023-05-25 11:38:15,111 [main] INFO PayTM login module - Application url: https://paytm.com/
+2023-05-25 11:38:21,005 [main] INFO PayTM login module - click on Sign button
+2023-05-25 11:38:21,049 [main] INFO PayTM login module - closing application
+2023-05-25 11:38:59,977 [main] INFO PayTM login module - -----info: launching application
+2023-05-25 11:38:59,995 [main] WARN PayTM login module - -----warn: launching application
+2023-05-25 11:38:59,996 [main] ERROR PayTM login module - ----error: launching application
+2023-05-25 11:39:05,278 [main] INFO PayTM login module - Application url: https://paytm.com/
+2023-05-25 11:39:10,076 [main] INFO PayTM login module - click on Sign button
+2023-05-25 11:39:10,292 [main] INFO PayTM login module - Switching to payTM frame.
+2023-05-25 11:39:14,160 [main] INFO PayTM login module - payTM frame heading:To Login into your Paytm Web account
+2023-05-25 11:39:14,164 [main] INFO PayTM login module - payTM frame heading validation pass, actual heading are: To Login into your Paytm Web account
+2023-05-25 11:39:14,165 [main] INFO PayTM login module - click on Watch video on payTM frame 
+2023-05-25 11:39:19,357 [main] INFO PayTM login module - closing application
